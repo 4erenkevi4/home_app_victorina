@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Привет! Это приложение "Викторина". Нажми START, чтобы начать.</string>
+    <string name="result">Вы ответили на все вопросы. Количество верных ответов: </string>
+    <string name="qw1">Вопрос1?</string>
+    <string name="qw2">Вопрос2?</string>
+    <string name="qw3">Вопрос3?</string>
+    <string name="qw4">Вопрос4?</string>
+    <string name="qw5">Вопрос5?</string>
+
+</resources>
